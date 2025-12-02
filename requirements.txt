@@ -1,0 +1,28 @@
+langchain 
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# llm based
+langchain-groq
+langchain-google-genai
+langchain-openai
+
+# system based
+faiss-cpu
+tiktoken
+rapidocr-onnxruntime
+
+docx2txt
+ipykernel 
+python-dotenv
+python-multipart
+
+langsmith 
+openai
+structlog
+fastapi
+jinja2
+uvicorn
+pandas
+
